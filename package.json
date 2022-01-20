@@ -1,0 +1,27 @@
+{
+  "name": "similarweb-aggregation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consolidate": "^0.16.0",
+    "cookie-session": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "dotgitignore": "^2.1.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "handlebars": "^4.7.7",
+    "hbs": "^4.1.2",
+    "mysql": "^2.18.1",
+    "request": "^2.88.2",
+    "url": "^0.11.0"
+  }
+}

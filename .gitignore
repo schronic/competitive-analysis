@@ -1,0 +1,4 @@
+node_modules/
+.env
+ga/client_secrets.json
+ga/analyticsreporting.dat
